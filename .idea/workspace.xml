@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00fd8834-f737-4292-afb9-d9fbab0a1ba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/domain/models/Guest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/models/Empleado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/2",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/5",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/USER/Trabajos_cesde/hotel"
+    "last_opened_file_path": "C:/Users/HP/Documents/cesde/hotel"
   }
 }]]></component>
   <component name="SharedIndexes">
